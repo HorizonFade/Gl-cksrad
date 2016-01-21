@@ -1,0 +1,10 @@
+name: Gluecksrad
+author: Horizon
+version: 0.1
+description: By Horizon(MlGqwickskoperxX)
+
+main: de.horizon.rad.Main
+
+commands:
+      rad:
+        description: Test
